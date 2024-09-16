@@ -1,10 +1,8 @@
-alert('voce clicou no botao ):');
-scrap src="main js";                                                                                                                    
+alert('voce clicou no botao');                                                                                                                
 document.querySelector('button');
 const botao=('button');
 botao.onclick=
-function(){
-    alert
+function('voce clicou no botao'){alert
 }
 
 
