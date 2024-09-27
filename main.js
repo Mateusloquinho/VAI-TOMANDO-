@@ -14,8 +14,8 @@ function areaQuadrado(lado){
 }
 console.log(areaQuadrado(5));
 
-let.media= function(num4,num2,num3){
- return (num4,num2,num3)/3;
+let.media= function(num2,num3,num4){
+ return (num2,num3,num4)/3;
 }
 
 let media= prompt('qual a média entre os números?');
