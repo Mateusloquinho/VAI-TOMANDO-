@@ -18,5 +18,5 @@ let.media= function(num4,num2,num3){
  return (num4,num2,num3)/3;
 }
 
-let nome= prompt('qual o nome');
-parseInt(prompt('qual seu nome?'));
+let media= prompt('qual a média entre os números?');
+parseint(prompt('?'));
