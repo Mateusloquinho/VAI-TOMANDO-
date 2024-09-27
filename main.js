@@ -15,5 +15,8 @@ function areaQuadrado(lado){
 console.log(areaQuadrado(5));
 
 let.media= function(num4,num2,num3){
-return (num4,num2,num3)/3;
+ return (num4,num2,num3)/3;
 }
+
+let nome= prompt('qual o nome');
+parseInt(prompt('qual seu nome?'));
