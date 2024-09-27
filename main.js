@@ -5,6 +5,6 @@ botao.onclick=
 function('voce clicou no botao'){alert
 }
 function soma(num1, num2){
-return num1+num2
+return num1+num2;
 }
-console log(soma(5,3))
+console log(soma(5,3));
