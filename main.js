@@ -22,9 +22,8 @@
 
 let estados=['PR','SC','RS','MG','RJ','BA','MS','AM','RR','RO','TO','PI','SE','RN','PE','PB','MT','MS','MA','GO','ES','CE','BSB','AP','AL','AC','SP']
 let i =0;
-while(i <27){
+while(i <28){
 console.log(i);
-
 console.log (estados[i]);
 i++;
 }
