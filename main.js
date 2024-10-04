@@ -27,9 +27,8 @@ let estados=['PR','SC','RS','MG','RJ','BA','MS','AM','RR','RO','TO','PI','SE','R
 // console.log (estados[i]);
 // i++;
 // }
-for (let i = 0; index < estados.length; i++) {
+for (let i = 0; i < estados.length; i++) {
     console.log(i);
      console.log (estados[i]);
-    
+
 }
-Array. length
