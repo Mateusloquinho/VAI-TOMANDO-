@@ -21,3 +21,8 @@
 // let media= function(num2, num3, num4);
 
 let estados=['PR','SC','RS','MG','RJ','BA','MS','AM','RR','RO','TO','PI','SE','RN','PE','PB','MT','MS','MA','GO','ES','CE','BSB','AP','AL','AC','SP']
+let i =0;
+while(i <10){
+console.log(i);
+i=i+1;
+}
