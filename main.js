@@ -32,7 +32,7 @@
 //      console.log (estados[i]);
 
 // }
-let idade=74;
+let idade=parseint(prompt(Insira a sua idade bb);
 if( idade >17       ){
 console.log('pode dirigir');
 }
