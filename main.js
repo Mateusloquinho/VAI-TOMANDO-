@@ -20,15 +20,15 @@
 
 // let media= function(num2, num3, num4);
 
-let estados=['PR','SC','RS','MG','RJ','BA','MS','AM','RR','RO','TO','PI','SE','RN','PE','PB','MT','MS','MA','GO','ES','CE','BSB','AP','AL','AC','SP']
-// let i =0;
-// while(i <estados.length){
-// console.log(i);
-// console.log (estados[i]);
-// i++;
-// }
-for (let i = 0; i < estados.length; i++) {
-    console.log(i);
-     console.log (estados[i]);
+// let estados=['PR','SC','RS','MG','RJ','BA','MS','AM','RR','RO','TO','PI','SE','RN','PE','PB','MT','MS','MA','GO','ES','CE','BSB','AP','AL','AC','SP']
+// // let i =0;
+// // while(i <estados.length){
+// // console.log(i);
+// // console.log (estados[i]);
+// // i++;
+// // }
+// for (let i = 0; i < estados.length; i++) {
+//     console.log(i);
+//      console.log (estados[i]);
 
-}
+// }
